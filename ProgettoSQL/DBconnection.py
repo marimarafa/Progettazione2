@@ -3,7 +3,7 @@ import psycopg2
 #Dettagli di connessione 
 host="localhost"
 port="5432"
-dbname="Accademia"
+dbname="Anagrafe"
 user="postgres"
 password="postgres"
 
