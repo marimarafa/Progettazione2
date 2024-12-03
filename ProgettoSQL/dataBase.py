@@ -6,7 +6,7 @@ def PrintQuery():
     rows = cursor.fetchall()
     count = 0
     for row in rows:
-        count +=1
+        count +=1   
         print(row)
     print("\tTotal rows : " , count)
 
